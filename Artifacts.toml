@@ -1,0 +1,252 @@
+[[SPIRV_Cross]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43633c4ac3f1a64470600739596a0f7b9559aea9"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "938267bf2608dc29684fdc328dc129d32af01fd7484f972ff977eb9842e77432"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.aarch64-linux-musl-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d8eab402bcf7af5ccec9d14d91b92b40f468bd30"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "bbdd3b7045c30c2441778e6c82fce5ea8a109c5234634f355ececa9e215cfd49"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.aarch64-linux-musl-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0ba872db90e0ac217bc3c10ce71c2ebbac4c5f49"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "4aac80641e5423531c1e1afcead7aa3bc4d44deff72848f53f9161b3167d1a06"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2500a92fa0f38b672e0bbf7fea97eef8acf03f9b"
+os = "windows"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "ef0fb2b9cccc6981bb66e9b7bb84c6fea3ed24b74d7718a2986b64e0ef2036b8"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-w64-mingw32-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "528f97ae39efa19c38a735812215650a897be6a7"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "f71519ef088529fb14e350bb08099ab40c491a347f30877112024d2d561209b6"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.i686-linux-musl-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c1f6909a5d53c6c78d98b27f8f8c38f3ddf569ff"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "c35faa0cee7223a96f3669c59f0ee76bcef02ad0a6670bca4596c259e50f1966"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-linux-musl-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1e5143a75fa7f94729e2d7f163be931e3c26d5d3"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "155cd4bed4168f88e1ce97263da5addaabbe2e4c4a09d9e4ace31b798f6513d1"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "85170f256131c86b840e6fe8e5267bb02eabbd05"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "59e5353589f0bbf85279b869f17e5450f061cad49ae3be701d3845c488336b28"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.i686-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b01eaba4082e0cb55cc3c90e1b3dc01cbddd2df6"
+os = "macos"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "09723ef874a67f9a3f88dd6fa5beb912b74488023c7dc768c8f19dead21fe43a"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-apple-darwin14-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a4af16b3d8e1055c7d1a06176880f996d56452a"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "f8ae07891de35bdbf9efcad44622e3b54903264ec008e0312b1178c162b85172"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.i686-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cff986fe7c7f93e356b45bce309eefa4d596dadd"
+os = "windows"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "42ea3e5c8f2df232c88eed0dadc479982a914a2ca9cda3042d350a6d6dcdbf23"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-w64-mingw32-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a34736c3460467dc12a54bbc79cf933456d70917"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "2d68580bdf96a82ae0d7b7f0d828f77b524cc64f635984ef6052ff71a9999982"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1777463e0c9d17aa9b4ae4ef1850c44eab238832"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "97352d6d54809abef87d97d5f578b385c35f2ce740d51b37534f3ed23b62ed98"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a84bbadbfa299d0d2d8638bcc154a533c98b2c9f"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "39b7dbfde303b54c2febb706968514ff8ead5afcd295c686eb36c83cb7237ede"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.aarch64-linux-gnu-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "70136d139fc24176ad21e4028ba7e783fba39412"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "a767c2dfa23bef302d5948211f8e96df07edb6ac154e331d952396e3000a0721"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-linux-musl-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "23fe00e3dd38ee6bc4d83070ed302650af2e7291"
+os = "macos"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "499a8b8b7c915fd4a14b69d56b4374399b7f10be95bc53ea48b16a4cfe361d3c"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-apple-darwin14-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "bd6790b951d484464fb56d4a6561929fbfd9b02c"
+os = "freebsd"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "b6319fd990cf69b71636def107867faac13e86de7597316264f61b2ae6241467"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cb635b6ba3c8e2d661859c3f019909b87880ea48"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "e059d920f7c86a79acbbf6e67503ea2dd51c3232705a90e43e898c6d26ed413c"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "76d59e54026c539d19e264aa10e9cff82fe94f74"
+os = "windows"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "bbd2bc67edb7bd27df80dc43ed01dbbc79c503041d7e8216e78e9e6dc5c96cb7"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.i686-w64-mingw32-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "079f6c09073ebf7c2a387e41ee322bb3abeeaed8"
+os = "windows"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "3a7a04a3b7811b374749e85c06228cc1840e21c68d967d1867329de051134e85"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.i686-w64-mingw32-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e02144f13aab188b6985f41e89fcf2b76178727b"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "58709c016049d3d6ee6199b661b02d41d538518ed71b0c105288798b1cc2dcd8"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f40e04a626aae1aa668aa46667b1d9e85e951b29"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "8cd067257feef4532a2b0715f2f4bc3932963164ad8d8d8cdc0a7b91bbe1ef35"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "68866ea2cbc73da3cfae5aac760cb5551366d935"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "f2d6a8530ccf592375c187b7020a9e40031311b80d92dbd83b615edef7af1011"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.aarch64-linux-gnu-cxx03.tar.gz"
+[[SPIRV_Cross]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "55f03f3ba7f81a6a9d8e3ab7b9321668e2c16edb"
+libc = "glibc"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "a448f60f07e2a5494c5d8346fd429e099a1abaedee67e36b6ac6598c756107d3"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f0900e943fc0d3fc9c5a7cf4c61ddc81f8b2836c"
+os = "freebsd"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "7952171f3f57cd8c89cd754a36fbdceff596f812419e2cc6700e8ba90a50539d"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[SPIRV_Cross]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "539b2b366daa4e5cc474fa1539b302e076f0bc29"
+libc = "musl"
+os = "linux"
+
+    [[SPIRV_Cross.download]]
+    sha256 = "b312691ef54d9a240e1be262e2a2c731b26f065ef4b2e5d9c7cb504115a1dfd4"
+    url = "https://github.com/JuliaBinaryWrappers/SPIRV_Cross_jll.jl/releases/download/SPIRV_Cross-v2020.4.3+0/SPIRV_Cross.v2020.4.3.i686-linux-musl-cxx03.tar.gz"
